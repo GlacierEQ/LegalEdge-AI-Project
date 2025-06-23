@@ -10,6 +10,8 @@ LegalEdge AI is a comprehensive legal document analysis and generation suite tha
 - **Compliance Checker**: Check legal documents for compliance with regulations
 - **Document Simplifier**: Convert complex legal language into simpler terms
 
+## Demo Video https://youtu.be/cyGhtPJ6nFM?si=pw5mM8FeZghz1km5
+
 ## Prerequisites
 
 - Python 3.8 or higher
